@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String.Util.WP7", "String.U
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{EB728D2E-CA2A-4F5A-9465-B67EE79E577E}"
 	ProjectSection(SolutionItems) = preProject
+		String.Util.WP7\Icon.gif = String.Util.WP7\Icon.gif
 		String.Util.WP7\String.Util.1.0.0.nupkg = String.Util.WP7\String.Util.1.0.0.nupkg
 	EndProjectSection
 EndProject
